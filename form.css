@@ -1,0 +1,11 @@
+.container {
+  display: grid;
+  grid-template-columns: 1fr 6fr;
+}
+.item {
+}
+
+.input-container {
+  display: grid;
+  grid-template-columns: 2fr 9fr;
+}
